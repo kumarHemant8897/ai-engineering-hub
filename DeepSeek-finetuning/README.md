@@ -7,6 +7,7 @@ This project fine-tunes DeepSeek (distilled Llama variant) using Unsloth and Oll
 
 **Setup Ollama**:
    ```bash
+#Hament kumar
    # setup ollama on linux 
    curl -fsSL https://ollama.com/install.sh | sh
    ```
